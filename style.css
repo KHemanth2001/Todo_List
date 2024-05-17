@@ -4,6 +4,14 @@
   background-color: #f9fbfe;
   height: 100vh; 
 }
+.bg-container{
+  background: linear-gradient(to right, #f1f2b5, #135058);
+  size: cover;
+  margin: 50px;
+  height: 80vh;
+  border-radius: 10px;
+  
+}
 .checked{
   text-decoration: line-through;
 }
@@ -118,4 +126,6 @@
 }
 .butn{
   margin-top: 20px;
+  width: 80px;
+  height: 40px;
 }
